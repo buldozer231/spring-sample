@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<!-- <parent> -->
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-samples</artifactId>
-		<version>${revision}</version>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-samples</artifactId>
+	<version>${revision}</version>
 	<!-- </parent> -->
 	<!-- <artifactId>spring-boot-sample-web-ui</artifactId>
 	<version>1.0</version> -->
