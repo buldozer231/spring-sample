@@ -9,6 +9,7 @@
 		<version>${revision}</version>
 	</parent>
 	<artifactId>spring-boot-sample-web-ui</artifactId>
+	<version>1.0</version>
 	<name>Spring Boot Web UI Sample</name>
 	<description>Spring Boot Web UI Sample</description>
 	<properties>
